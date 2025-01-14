@@ -31,6 +31,7 @@ Este proyecto es una pizarra colaborativa en tiempo real utilizando Firebase y V
     ``` sh
     npm install firebase
     npm install firebase-tools
+    npm install dotenv
     ```
 
 3. Crea un archivo `firebaseConfig.js` en tu directorio `src` y añade la configuración de Firebase obtenida en el paso 1:
